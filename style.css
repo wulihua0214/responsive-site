@@ -137,4 +137,8 @@ section {
   margin-left: auto;
   margin-right: auto; }
 
+@media (max-width: 768px) {
+  .flexible-images {
+    height: 250px; } }
+
 /*# sourceMappingURL=style.css.map */
